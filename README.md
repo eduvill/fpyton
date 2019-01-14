@@ -1,5 +1,7 @@
 # Fluent Python
-## PartII. Data Structure
+## Part I. Prologue
+### Chater1. The Python Data Model
+## Part II. Data Structure
 ### Chater2. An Array of Sequences
 * List Comprehensions and Generator Expressions
 * Tuples Are Not Just Immutable Lists
